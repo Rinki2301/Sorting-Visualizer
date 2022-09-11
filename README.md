@@ -1,2 +1,2 @@
 # Sorting-Visualizer
-https://navinkt.github.io/Sorting-Visualizer/.
+https://rinki2301.github.io/Sorting-Visualizer/
